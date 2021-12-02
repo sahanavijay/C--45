@@ -9,8 +9,8 @@ var g=0.05;
 
 function preload()
 { 
- pc_image = loadImage("player.png");
- jungle_image = loadImage("Background.png");
+ pc_image = loadImage("assets/player.png");
+ jungle_image = loadImage("assets/Background.png");
 }
 
 function setup() 
